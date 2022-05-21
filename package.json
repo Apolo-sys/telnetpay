@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@nowpaymentsio/nowpayments-api-js": "^1.0.5",
+    "base58-js": "^1.0.0",
+    "bitcore-lib": "^8.25.28",
+    "coinjs-lib": "^1.0.2",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "generate-passphrase": "^1.2.0",
+    "request": "^2.88.2",
+    "web3": "^1.7.3"
+  }
+}
