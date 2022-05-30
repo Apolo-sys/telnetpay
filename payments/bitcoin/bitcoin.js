@@ -3,6 +3,7 @@ import { generate, generateMultiple } from 'generate-passphrase'
 import axios from 'axios';
 import request from 'request';
 import bitcore from 'bitcore-lib';
+console.log('test')
 
 export default {
     init: async function () {
